@@ -1,0 +1,5 @@
+ // Your output from Exercise 3A here
+p2, Patient2, 40
+PID98512456,Pink,450
+PID21578345,Brown,1000
+PID74315491,Blue,650
