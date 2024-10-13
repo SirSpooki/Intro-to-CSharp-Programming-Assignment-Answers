@@ -52,11 +52,3 @@ Welcome to the Introduction to C# Programming repository! This repository contai
 ## Contribution
 
 Feel free to contribute to this repository by adding more answers or enhancing existing ones. 
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, contact [Your Name](mailto:your.email@example.com).
